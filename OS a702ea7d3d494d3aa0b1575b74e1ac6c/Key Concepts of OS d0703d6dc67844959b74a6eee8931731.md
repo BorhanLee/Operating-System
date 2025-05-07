@@ -2,6 +2,7 @@
 
 - **Process Management**:
     - What is process?
+    Process 是一個正在執行的程式，附帶其所需的資源與執行狀態。
         - How do processes schedule?
             
             ![Untitled](Key%20Concepts%20of%20OS%20d0703d6dc67844959b74a6eee8931731/Untitled.png)
