@@ -3,7 +3,6 @@
 - **Process Management**:
     - What is process?
     Process 是一個正在執行的程式，附帶其所需的資源與執行狀態。
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/62abda2e-1b59-463e-999c-c87cc37767fd" />
 
         - How do processes schedule?
             
